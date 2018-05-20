@@ -15,7 +15,7 @@ body {
 	max-width: 100%;
 	z-index: 99;
 	position: absolute;
-	top: 40%;
+	top: 35%;
 	left: 0;
 	text-align: center;
 	color: #d9d9d9;
@@ -24,11 +24,11 @@ body {
 
 .bantitre{
     font-family: 'Pacifico', cursive;
-    font-size: 100%;
+    font-size: 100px;
 }
 
 .bantxt{
-    font-size: 20%;
+    font-size: 20px;
 }
 
 .class_test {
