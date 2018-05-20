@@ -77,3 +77,7 @@ body {
 .fondcouleur{
     background-color: #352728;
 }
+
+.ombre{
+    text-shadow: 5px 5px 5px black;
+}
