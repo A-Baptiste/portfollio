@@ -18,10 +18,17 @@ body {
 	top: 40%;
 	left: 0;
 	text-align: center;
-	color: #ffffff;
-	font-family: 'Pacifico', cursive;
-	font-size: 100px;
+	color: #d9d9d9;
 	text-shadow: 10px 10px 10px black;
+}
+
+.bantitre{
+    font-family: 'Pacifico', cursive;
+    font-size: 100%;
+}
+
+.bantxt{
+    font-size: 20%;
 }
 
 .class_test {
