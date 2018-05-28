@@ -2,7 +2,7 @@ $(document).ready(function(){
     // au clic sur un lien
     $('a').on('click', function(evt){
        // bloquer le comportement par défaut: on ne rechargera pas la page
-       evt.preventDefault(); 
+       //evt.preventDefault(); 
        // enregistre la valeur de l'attribut  href dans la variable target
        if ($(this).attr('href') != '#carprojet1') {
         if ($(this).attr('href') != '#carprojet2') {
